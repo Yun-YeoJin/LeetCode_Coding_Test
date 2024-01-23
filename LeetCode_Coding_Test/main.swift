@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
+print(twoSum([3,2,4], 6))
 
