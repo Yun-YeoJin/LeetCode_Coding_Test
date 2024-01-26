@@ -10,6 +10,7 @@
 		CA7E82692B5F91CF002BAAA3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7E82682B5F91CF002BAAA3 /* main.swift */; };
 		CA7E82702B5F9266002BAAA3 /* Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7E826F2B5F9266002BAAA3 /* Two Sum.swift */; };
 		CA7E82722B5F9358002BAAA3 /* Add Two Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA7E82712B5F9358002BAAA3 /* Add Two Numbers.swift */; };
+		CACF19D82B6343BA003BADA2 /* Longest Substring Without Repeating Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = CACF19D72B6343BA003BADA2 /* Longest Substring Without Repeating Characters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		CA7E82682B5F91CF002BAAA3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CA7E826F2B5F9266002BAAA3 /* Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two Sum.swift"; sourceTree = "<group>"; };
 		CA7E82712B5F9358002BAAA3 /* Add Two Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Two Numbers.swift"; sourceTree = "<group>"; };
+		CACF19D72B6343BA003BADA2 /* Longest Substring Without Repeating Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Substring Without Repeating Characters.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				CA7E82682B5F91CF002BAAA3 /* main.swift */,
 				CA7E826F2B5F9266002BAAA3 /* Two Sum.swift */,
 				CA7E82712B5F9358002BAAA3 /* Add Two Numbers.swift */,
+				CACF19D72B6343BA003BADA2 /* Longest Substring Without Repeating Characters.swift */,
 			);
 			path = LeetCode_Coding_Test;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				CA7E82722B5F9358002BAAA3 /* Add Two Numbers.swift in Sources */,
 				CA7E82692B5F91CF002BAAA3 /* main.swift in Sources */,
 				CA7E82702B5F9266002BAAA3 /* Two Sum.swift in Sources */,
+				CACF19D82B6343BA003BADA2 /* Longest Substring Without Repeating Characters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
